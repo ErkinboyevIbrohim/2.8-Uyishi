@@ -1,0 +1,60 @@
+.more-info {
+  text-align: center;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 100px;
+}
+.parent {
+  display: flex;
+  justify-content: center;
+  margin-top: 140px;
+}
+.Leading-healthcare-providers {
+  font-size: 36px;
+  font-weight: 700;
+}
+.button-1 {
+  color: rgb(0, 26, 255);
+  padding: 15px 30px;
+  border-radius: 50px;
+  background-color: white;
+}
+.parent p {
+  color: #7d7987;
+}
+.check {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 700;
+}
+.chack-3 {
+  font-size: 1000px;
+  font-weight: 700;
+}
+
+.parent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.button-2 {
+  margin-top: 40px;
+  color: rgb(0, 26, 255);
+  padding: 15px 30px;
+  border-radius: 50px;
+  background-color: white;
+  text-align: center;
+}
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
